@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Projects
 
-[Project 1 Title](/sample_page)
+[System Verilog Design and Verification of Floating Point Processor](docs/ECE 571 - Final Project Presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
