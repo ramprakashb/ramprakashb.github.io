@@ -4,11 +4,13 @@
 
 ### Projects
 
-[System Verilog Design and Verification of Floating Point Processor](docs/ECE 571 - Final Project Presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[System Verilog Design and Verification of Floating Point Processor](https://github.com/Keerthan1994/RISC-V-Floating-Point-Processor/blob/6ac3b80199d587b98ab205c636ab255c32c1f120/docs/ECE%20571%20-%20Final%20Project%20Presentation.pdf)
+Designing a hardware module to perform basic
+arithmetic operations addition, subtraction, multiplication and division and verifying the same using Randomization and
+Assertions.
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Project 2 Title]
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
