@@ -4,14 +4,17 @@
 
 ### Projects
 
-[System Verilog Design and Verification of Floating Point Processor](https://github.com/Keerthan1994/RISC-V-Floating-Point-Processor/blob/6ac3b80199d587b98ab205c636ab255c32c1f120/docs/ECE%20571%20-%20Final%20Project%20Presentation.pdf)
+**Bold** System Verilog Design and Verification of Floating Point Processor
 Designing a hardware module to perform basic
 arithmetic operations addition, subtraction, multiplication and division and verifying the same using Randomization and
 Assertions.
+[Presentation](https://github.com/Keerthan1994/RISC-V-Floating-Point-Processor/blob/6ac3b80199d587b98ab205c636ab255c32c1f120/docs/ECE%20571%20-%20Final%20Project%20Presentation.pdf)
 
 ---
-[Project 2 Title]
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+**Bold**Intruder Alarm system using Android App, Google Firebase and MQTT protocol
+
+[Presentation](https://github.com/ramprakashb/android_final_project/blob/46a4e6167e818198130cf6b40abc0ca6d37bbf8a/ece-558-winter-2021-final-project-report.pdf)
+
 
 ---
 [Project 3 Title](http://example.com/)
