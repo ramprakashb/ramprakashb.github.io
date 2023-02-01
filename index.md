@@ -26,7 +26,7 @@ Implemented a closed loop automatic irrigation system using Nexys A7 FPGA contro
 
 ### Tools Used:
     Xillinx Vivado 
-
+[Github repo]([https://github.com/ramprakashb/android_final_project.git](https://github.com/ece544-spring2020/ece-544-project-2-mikee_ramb))
 ---
 
 ## Linux Driver for Intel e100e
