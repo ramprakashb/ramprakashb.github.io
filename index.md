@@ -60,3 +60,8 @@ Implemented localisation and navigation using ORB-SLAM and gmapping in ROS built
 
 ## Tools: 
     ROS Gazebo
+---
+## Verilog Design and Synthesis of Duck Hunt Arcade game using MIPS FPGA
+Developed a 8 bit arcade game Duck Hung using MIPS Micro Aptive Software in Nexys A7 FPGA.
+
+[Github repo](https://github.com/ece540-winter2020/finalproj-thongd_ramprakashb_abhriajae)
